@@ -31,3 +31,5 @@ Example:
 $ python3 bleu.py -N 2          # this would generate the BLEU scores using bi-grams only
 $ python3 bleu.py -N 0.5,0.5    # this would generate the BLEU scores using unigrams and bi-grams giving equal weights to both the individual scores of unigrams and bigrams
 ```
+## References
+* Papineni, Kishore, et al. "BLEU: a method for automatic evaluation of machine translation." Proceedings of the 40th annual meeting on association for computational linguistics. Association for Computational Linguistics, 2002.
