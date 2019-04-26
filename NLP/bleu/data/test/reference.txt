@@ -1,0 +1,3 @@
+this blue test is
+a single n-gram score is the evaluation of just matching grams of a specific order
+this is bleu test
